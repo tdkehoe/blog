@@ -14,3 +14,5 @@ You can add blog posts as well as technical material. Identify your blog posts b
 # How To WriteWiki Pages
 
 Just click the "Edit" or "New Page" buttons. You can write in Markdown or HTML. Markdown is simple enough except for code. You have to indent lines of code four or more spaces...and the Markdown editor doesn't have an indentation feature. It may be easier to write in Atom or vim, where you can easily indent lines or blocks. I'll look if Atom has a Markdown editor.
+
+For a few words of code use &lt;code&gt; &lt;/code&gt;.
