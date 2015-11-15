@@ -1,5 +1,6 @@
-# Learn-To-Be-a-Full-Stack-Developer-in-24-Weeks
-##gSchool: The Missing Manual
+The best posts are:
+
+
 
 # How To Read the Wiki
 
