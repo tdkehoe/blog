@@ -1,4 +1,4 @@
-The best posts are:
+These blog posts are instructions I wrote to myself. The best posts are:
 
 * [Abstracting JavaScript](https://github.com/tdkehoe/blog/wiki/Abstracting-JavaScript) - A blog post about starting without abstractions, then adding first-order abstraction (a _for_ loop), then adding second-order abstraction (a nested _for_ loop). When a bug is encountered, you step down to the previous level of abstraction and the bug becomes obvious.
 * [MEAN CRUD](https://github.com/tdkehoe/blog/wiki/MEAN-CRUD) - The 2500-word instructions I wrote for myself while studying for the CRUD exam. I used these instructions to build the [jobsly](https://github.com/tdkehoe/jobsly) app.
